@@ -1,0 +1,77 @@
+﻿l_english:
+ ##### Airborne tank battalion ###
+ light_para_armor:0 "空降坦克"
+ light_para_armor_desc:0 "用于空降作战的轻型装甲坦克。"
+ light_para_sp_artillery:0 "空降自行火炮"
+ light_para_sp_artillery_desc:0 ""
+ light_para_tank_destroyer:0 "空降坦自行反坦克炮"
+ light_para_tank_destroyer_desc:0 ""
+ light_para_sp_anti_air:0 "空降自行防空炮"
+ light_para_sp_anti_air_desc:0 ""
+ 
+ 
+ #### Airborne tank chassis ####
+ paradrop_tank_chassis:0 "空降坦克"
+ paradrop_tank_chassis_desc:0 "一种专门用于空降作战小型底盘，设计由重型滑翔机运输并支援空降部队。"
+ paradrop_tank_artillery_chassis:0 "空降自行火炮"
+ paradrop_tank_artillery_chassis_desc:0 "一种小型紧凑载具，主要用于为向前进攻的空降部队提供火力支援。"
+ paradrop_tank_destroyer_chassis:0 "空降坦自行反坦克炮"
+ paradrop_tank_destroyer_chassis_desc:0 "一种小型紧凑载具，携带一门威力强大的炮来摧毁敌人的装甲部队。"
+ paradrop_tank_aa_chassis:0 "空降自行防空炮"
+ paradrop_tank_aa_chassis_desc:0 "一种小型紧凑载具，装有防空炮以对抗敌机。"
+ 
+ 
+ paradrop_tank_chassis_0:0 "空降坦克底盘"
+ paradrop_tank_artillery_chassis_0:0 "空降自行火炮"
+ paradrop_tank_destroyer_chassis_0:0 "空降坦自行反坦克炮"
+ paradrop_tank_aa_chassis_0:0 "空降自行防空炮"
+ 
+ 
+ ### Defaults Airborne tank Equipment names (if you translated my mode, you don't have to translate it. ^^ ) ###
+ paradrop_tank_equipment_0:0 "空降坦克"
+ USA_paradrop_tank_equipment_0:0 "M22 Locust"
+ ENG_paradrop_tank_equipment_0:0 "Tetrarch"
+ GER_paradrop_tank_equipment_0:0 "Panzer I Ausf. C"
+ FRA_paradrop_tank_equipment_0:0 "H35 ELC"
+ SOV_paradrop_tank_equipment_0:0 "Antonov A-41"
+ JAP_paradrop_tank_equipment_0:0 "Type 95 Ha-Go Kūteishiyō"
+ ITA_paradrop_tank_equipment_0:0 "L6 Aerotrasportato"
+ CZE_paradrop_tank_equipment_0:0 "LT vz. 34p"
+ POL_paradrop_tank_equipment_0:0 "7TP Samolotowy"
+ 
+ paradrop_tank_artillery_equipment_0:0 "空降自行火炮"
+ 
+ paradrop_tank_destroyer_equipment_0:0 "空降坦自行反坦克炮"
+ 
+ paradrop_tank_aa_equipment_0:0 "空降自行防空炮"
+ 
+ 
+ ### Airborne tank module categories #####
+ EQ_MOD_CAT_tank_para_turret_type_TITLE:0 "空降坦克炮塔类型"
+ 
+ 
+ #### Airborne tank module ####
+ tank_light_one_man_tank_turret_p:0 "空降炮塔"
+ tank_light_one_man_tank_turret_p_desc:0 "这座小型炮塔勉强能塞下一名坦克乘员。这名乘员同时负责主武器的瞄准和填装，还要随时关注周围的环境和威胁。"
+ tank_light_fixed_superstructure_turret_p:0 "空降固定式炮塔"
+ tank_light_fixed_superstructure_turret_p_desc:0 "采用固定式炮塔意味着主武器的射角极为受限，只能借由整车的旋转带动主武器旋转。然而，这种设计允许在同样尺寸的车身上安装更大的武器，使得改载具成为伏击作战的理想选择。"
+ 
+ 
+ ## Tank Designer UI ##
+ tank_designer_paradrop_tank_chassis:0 "空降坦克"
+ tank_designer_paradrop_tank_chassis_role_disallowed:0 "切换为空降坦克定位需要移除禁用该定位的模块。"
+ 
+ 
+ ## Motorized Paratrooper battalion ##
+ motorized_paratrooper:0 "摩托化伞兵"
+ motorized_paratrooper_desc:0 "摩托化伞兵的运输工具，如可以用滑翔机运输的吉普车或摩托车等。"
+ 
+ 
+ ## Paradrop Artillery battalion ##
+ paradrop_artillery:0 "空降炮兵"
+ paradrop_artillery_desc:0 "空降炮兵营采用了可以通过滑翔机运输的轻型火炮，虽然与一般炮兵营相比火力不足，但经过优化，可以支援空降部队。"
+ paradrop_anti_air:0 "空降防空炮"
+ paradrop_anti_air_desc:0 "空降防空营采用了可以通过滑翔机运输的轻型防空炮，虽然与一般防空营相比火力不足，但经过优化，可以支援空降部队。"
+ paradrop_anti_tank:0 "空降反坦克炮"
+ paradrop_anti_tank_desc:0 "空降反坦克营采用了可以通过滑翔机运输的轻型反坦克炮，虽然与一般反坦克营相比火力不足，但经过优化，可以支援空降部队。"
+ 
